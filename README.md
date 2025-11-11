@@ -79,7 +79,7 @@ Before installing Baileyspy, ensure you have:
 #### Method 1: pip install (Recommended)
 
 ```bash
-pip install baileyspy
+pip install git+https://github.com/terastudio-org/Baileyspy.git
 ```
 
 #### Method 2: Development Installation
