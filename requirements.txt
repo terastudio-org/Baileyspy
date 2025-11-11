@@ -1,0 +1,25 @@
+# Core dependencies (Python 3.14.0+ compatible)
+requests>=2.31.0
+websocket-client>=1.7.0
+aiofiles>=23.0.0
+python-dotenv>=1.0.0
+
+# Optional dependencies for enhanced functionality (Python 3.14.0+ compatible)
+pillow>=10.0.0  # For image processing
+beautifulsoup4>=4.12.0  # For web scraping (if needed)
+jsonschema>=4.17.0  # For JSON validation
+colorama>=0.4.6  # For colored terminal output
+rich>=13.0.0  # For enhanced terminal output
+
+# Development dependencies (Python 3.14.0+ compatible)
+# pytest>=7.0
+# pytest-asyncio>=0.21.0
+# black>=23.0
+# flake8>=6.0
+# mypy>=1.5.0
+# pre-commit>=3.0.0
+
+# Documentation dependencies (Python 3.14.0+ compatible)
+# sphinx>=7.0
+# sphinx-rtd-theme>=1.3
+# myst-parser>=0.20.0
