@@ -90,17 +90,6 @@ cd Baileys
 pip install -e .
 ```
 
-#### Method 3: Install with Development Dependencies
-
-```bash
-pip install baileyspy[dev]
-```
-
-#### Method 4: Install with Documentation Tools
-
-```bash
-pip install baileyspy[docs]
-```
 
 ### Dependencies
 
